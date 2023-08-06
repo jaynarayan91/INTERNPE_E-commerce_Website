@@ -11,4 +11,4 @@ Video contents:
 - Used Scroll Reveal JS
 - Used Swiper JS
 
-![img](Clothing%20Website.png)
+![img](clothing.png)
